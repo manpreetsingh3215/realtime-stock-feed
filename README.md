@@ -19,7 +19,6 @@ A React Native/Expo application that displays real-time stock prices using WebSo
 ✅ **WebSocket endpoint connection**
 
 - Uses `https://mockly.me/docs/websocket/stream` for live financial data
-- Subscribes to multiple popular stocks (AAPL, GOOGL, MSFT, AMZN, TSLA, META, NVDA, NFLX)
 
 ✅ **Real-time data display**
 
@@ -61,7 +60,6 @@ A React Native/Expo application that displays real-time stock prices using WebSo
 ### APIs
 
 - **Mockly.me**: https://mockly.me/docs/websocket/stream
-- **OpenPublicAPIs Finnhub**: https://openpublicapis.com/api/finnhub
 
 ## Get started
 
